@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sendbird-chatgpt-sample-android</string>
+    <string name="chat_gpt_bot">GPT bot</string>
+    <string name="chat_witty_bot">Witty bot</string>
+    <string name="chat_knowledge_bot">Knowledge bot</string>
+</resources>
